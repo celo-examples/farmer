@@ -1,0 +1,3 @@
+Farmscribe is a pure decentralized application where the users of the application can upload their  products and then have it bought by other  users of the dapp. The best part of this dapp is that the images are stored on a decentralized file management system called IPFS making the dapp purely decentralized. Owners of products have the ability to also edit the quantity of the product
+
+Link to dapp: https://condescending-almeida-a68730.netlify.app/
